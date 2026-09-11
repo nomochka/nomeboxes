@@ -1,0 +1,6 @@
+﻿{
+    "model":  {
+                  "model":  "nomeboxes:item/backpack_large",
+                  "type":  "minecraft:model"
+              }
+}

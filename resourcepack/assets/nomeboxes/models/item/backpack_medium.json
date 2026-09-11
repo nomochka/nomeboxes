@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "nomeboxes:item/backpack_medium"
+                 },
+    "parent":  "minecraft:item/generated"
+}

@@ -1,0 +1,15 @@
+name: NomeBoxes
+version: 1.0.0
+main: com.nome.nomeboxes.NomeBoxesPlugin
+api-version: '1.21'
+author: nome
+description: Кастомные рюкзаки со своей текстурой
+commands:
+  nomeboxes:
+    description: Команды NomeBoxes
+    aliases: [nbx]
+    usage: /nomeboxes give <small|medium|large|super> [игрок]
+permissions:
+  nomeboxes.give:
+    description: Выдача рюкзаков
+    default: op
